@@ -1,1 +1,1 @@
-![Screenshot] (Screenshot (24).png)
+![Screenshot] (/Screenshot (24).png)
