@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: steelblue;
+    color:white;
+    padding: 15px;
+    margin: 10px;
+    display: grid;
+    grid-template-columns:200px 250px;
+    grid-template-rows: 150px 100px;
+
+
+}
+.item{
+    padding: 20px;
+    font-size: 20px;
+    margin: 5px;
+    border: white 5px solid;
+    color: black;
+    background-color: pink;
+}
+.item-1{
+    grid-column: 1/3;
+}
